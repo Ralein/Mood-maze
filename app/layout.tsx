@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Mood Maze - An Interactive Puzzle Adventure",
   description: "A choose-your-own-adventure style maze where your mood shapes the journey",
-    generator: 'v0.dev'
+
 }
 
 export default function RootLayout({
